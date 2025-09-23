@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Ahmad Raja Fadhil**.<br>
 
-Saya seorang **Mahasiswa** di [Telkom University](https://www.dicoding.com/).<br>
+Saya seorang **Mahasiswa** di [Telkom University](https://telkomuniversity.ac.id/).<br>
 
 
 <p align="left">
